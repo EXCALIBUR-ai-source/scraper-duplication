@@ -21,3 +21,5 @@
 ## Notes
 - This tool only checks UUIDs present **in the URL**. If a job site doesn't put an ID in the URL, you'll see "no UUID found".
 - The copy text contains: URL, UUID, visit/bookmark counts, and the last visit timestamp (if any).
+
+![Alt text](Screenshot.png)
